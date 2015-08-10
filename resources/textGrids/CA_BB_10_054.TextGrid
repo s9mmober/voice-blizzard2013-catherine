@@ -1,0 +1,20 @@
+"Praat chronological TextGrid text file"
+0 0.8648526077097506   ! Time domain.
+1   ! Number of tiers.
+"IntervalTier" "phones" 0 0.8648526077097506
+
+! phones:
+1 0 0.2645431505935708
+"pau"
+
+! phones:
+1 0.2645431505935708 0.3408536748032547
+"n"
+
+! phones:
+1 0.3408536748032547 0.6410084033613446
+"@U"
+
+! phones:
+1 0.6410084033613446 0.8648526077097506
+"pau"
